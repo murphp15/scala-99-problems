@@ -9,7 +9,7 @@ object Problem10To20 {
   
   // Tenth
   def modifiedRunLengthEncoding[A](list:List[A]) : List[Tuple2[A, Int]] = {
-     return Nil
+     Nil
   }
   
   
